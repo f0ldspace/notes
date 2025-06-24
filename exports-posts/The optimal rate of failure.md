@@ -1,0 +1,7 @@
+[[Amanda Askell]], [[Productivity]]
+### Page 59 @ 11 April 2025
+*It was apparently George Stigler that said “If you never miss a plane, you’re spending too much time at the airport.” The broader lesson is that if you find you’re never failing, there’s a good chance you’re being too risk averse, and being too risk averse is costly.*
+### Page 60 @ 12 April 2025 
+*The expected value of trying anything is just the sum of (i) the expected gains if it’s successful, (ii) the expected losses if it fails, and (iii) the expected cost of trying. This includes direct value (some benefit or loss to you or the world), option value (being in a better or worse position in the future) and information value (having more or less knowledge for future decisions).*
+### Page 63 @ 19 April 2025
+*For example, if you see crimes being committed in a society, you might think this is necessarily a bad sign. But if you were to find yourself in a society with no crime, it’s not very likely that you’ve stumbled into a peaceful utopia: it’s more likely that you’ve stumbled into an authoritarian police state. Given the costs that are involved in getting crime down to zero—e.g. locking away every person for every minor infraction—the optimal amount of crime we should expect to see in a well-functioning society is greater than zero. To put it another way: just as seeing too much crime is a bad sign for your society, so is seeing too little.*
