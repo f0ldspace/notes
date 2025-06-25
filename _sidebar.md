@@ -4,6 +4,7 @@
   * [1750429757-saint-paisios-of-mount-athos](1750429757-saint-paisios-of-mount-athos.md)
   * [1750761001-technical-server](1750761001-technical-server.md)
   * [1750763285-personal-stack](1750763285-personal-stack.md)
+  * [1750806712-callouts](1750806712-callouts.md)
   * [AGI Path](AGI%20Path.md)
   * [Christianity](Christianity.md)
   * [Confessions, Saint Augustine](Confessions%2C%20Saint%20Augustine.md)

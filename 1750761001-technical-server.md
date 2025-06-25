@@ -10,7 +10,7 @@ tags:
 # Technical Server
 
 - Mac Mini M4
-- Portainer
+- Portainer via docker desktop
 
 ## Local only
 
