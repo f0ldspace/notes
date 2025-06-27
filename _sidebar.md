@@ -19,7 +19,6 @@
   * [Thirty steps to heaven](Thirty%20steps%20to%20heaven.md)
 
 * **Folders**
-  * [Blog](/Blog/)
   * [Claude-Research](/Claude-Research/)
   * [Claude](/Claude/)
   * [Crypto](/Crypto/)
@@ -27,7 +26,6 @@
   * [exports-books](/exports-books/)
   * [exports-misc](/exports-misc/)
   * [exports-posts](/exports-posts/)
-  * [journal](/journal/)
   * [Miscellaneous](/Miscellaneous/)
   * [sandbox](/sandbox/)
   * [Slides](/Slides/)
