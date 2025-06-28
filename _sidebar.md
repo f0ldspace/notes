@@ -28,5 +28,3 @@
   * [exports-posts](/exports-posts/)
   * [Miscellaneous](/Miscellaneous/)
   * [sandbox](/sandbox/)
-  * [Slides](/Slides/)
-  * [templates](/templates/)
