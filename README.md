@@ -6,6 +6,10 @@ permalink: /readme/
 
 My main site is [f0ld.space](https://f0ld.space), there is also [notes.f0ld.space](https://notes.f0ld.space) which is just my online notes, I recommend using it for searching only.
 
+- [my reading log](https://notes.f0ld.space/#/Reading-2025)
+
+---
+
 # Reading
 
 - [saint paisios](https://notes.f0ld.space/#/1750429757-saint-paisios-of-mount-athos)
