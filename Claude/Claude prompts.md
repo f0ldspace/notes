@@ -2,18 +2,17 @@
 id: Claude prompts
 aliases:
   - Obsidian
+  - Self Debate
 tags: []
 ---
 
-# Obsidian
-
-## Self Debate
+# Self Debate
 
 ```
 Have a debate between two versions of Claude Opus about [TOPIC]. Opus A argues for, Opus B argues against. Include opening statements, rebuttals, and closing arguments. Make each side engage directly with the other's arguments.
 ```
 
-## Weekly Summary
+# Weekly Summary
 
 ```
 **Task**: Create a weekly journal summary for the "self" folder
@@ -47,7 +46,7 @@ Have a debate between two versions of Claude Opus about [TOPIC]. Opus A argues f
 - Keep the summary well-organized and scannable
 ```
 
-## Monthly Summary
+# Monthly Summary
 
 ```
 Turn my weekly summarys in (self/weekly/) for this month into a monthly summary file and save it in self/ format should be Month-year (e.g June-2025)
@@ -55,7 +54,7 @@ Turn my weekly summarys in (self/weekly/) for this month into a monthly summary 
 
 ---
 
-## Psychoanalysis
+# Psychoanalysis
 
 ```
 I want you to read through my obsidian (I think the folders blog, journal, Positions are worth reading in full - ignore journal/People/ and journal/locations/) for the rest use your own discretion but obviously exports-* you just need the titles not the full text, then I want you to write a psychological profile on me then give me specific advice (you can also read files as you see fit the above is just a guideline, any folder starting with export- is not something I've written it's something I've highlighted and exported from something I've read. So it'll show you my interests, same with the concepts folder.), You should at least list the files in every folder.
@@ -63,16 +62,16 @@ I want you to read through my obsidian (I think the folders blog, journal, Posit
 
 ---
 
-## Mental Health
+# Mental Health
 
 ```
 I want you to read through my obsidian (specifically the self folder), I want you to review my mental health over the past four weeks. I'm not looking for medical advice I'm looking for a general check in on my mental health/wellbeing - specifically things/changes I might not be aware of.
 ```
 
-## Update predictions
+# Update predictions
 
 ```
-Update my Obsidian vault's "Predictions.md" file with the latest statistics from my "journal/prediction-log.md" file. Specifically:
+Update my Obsidian vault's "Predictions.md" file with the latest statistics from my "prediction-log.md" file. Specifically:
 
 1. Update the admon callout with today's date in the format "DD-MMM-YYYY"
 2. Recalculate and update the mermaid calibration chart using confidence levels and actual win rates
@@ -89,20 +88,42 @@ For calculations:
 Also update the "Overall Brier Score: "
 ```
 
-## Export to research
+# Export to research
 
 ```
 export it as a markdown file in my obsidian (include citations) put it in Claude/Research
 ```
 
-## Handover document
+# Handover document
 
 ```
 Our chat has come to an end, but your last task will be to prepare a handover document (markdown) for the next person on this project. you don't have to include source code or everything, but the subtleties and important project-specific things should be recorded.
 ```
 
-## Morning
+# Morning
 
 ```
-Is there anything on my calendar for today? also are there any emails I should be aware of?
+Please give me my morning standup with the following checks:
+
+1. **Local Files**
+   - Read my journal entries from yesterday and today in /obsidian/journal/2025/[Month]/
+   - Search all files in local directories (mcp) for:
+     - Undone checkboxes: "- [ ]"
+     - TODO, FIX, or FIXME in file contents (not just filenames)
+
+2. **Calendar** - Check all my calendars for:
+   - Todays events
+   - This weeks upcoming events
+
+3. **Email**
+   - Check for unread emails
+   - Any important emails from the last few days (skip automated/no-reply messages)
+
+**Format**:
+- Start with "Action Items" as bullet points at the top
+- Then include sections for: Status Update, Email, Code/File Status, This Week
+- Keep it concise but comprehensive
+
+**Priority**: Focus on actionable items and anything that needs attention today or this week.
+
 ```

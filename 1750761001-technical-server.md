@@ -17,8 +17,6 @@ tags:
 - [ ] Gitea
 - [ ] Tailscale
 - [ ] Syncthing
-- [ ] ollama
-- [ ] openweb-ui
 - [ ] photoprism
 - [ ] uptime kuma
 - [ ] nextcloud
@@ -29,7 +27,6 @@ tags:
 - [ ] yourls
 - [ ] chibisafe
 - [ ] privatebin
-- [ ] beelzebub-honeypot
 
 # Misc
 
