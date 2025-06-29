@@ -1,9 +1,11 @@
 * [← Back](../)
 * **Miscellaneous**
 
+  * [1750806712-callouts](/Miscellaneous/1750806712-callouts.md)
   * [Altruism](/Miscellaneous/Altruism.md)
   * [Amanda Askell](/Miscellaneous/Amanda%20Askell.md)
   * [Autism](/Miscellaneous/Autism.md)
+  * [Christianity](/Miscellaneous/Christianity.md)
   * [CosmicSkeptic will become christian](/Miscellaneous/CosmicSkeptic%20will%20become%20christian.md)
   * [Decision theory](/Miscellaneous/Decision%20theory.md)
   * [Finance](/Miscellaneous/Finance.md)
