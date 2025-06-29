@@ -74,11 +74,9 @@ I want you to read through my obsidian (specifically the self folder), I want yo
 Update my Obsidian vault's "Predictions.md" file with the latest statistics from my "prediction-log.md" file. Specifically:
 
 1. Update the admon callout with today's date in the format "DD-MMM-YYYY"
-2. Recalculate and update the mermaid calibration chart using confidence levels and actual win rates
-3. Update both confidence tables:
+2. Update both confidence tables:
    - First table: Group by confidence level (55%, 65%, 75%, 85%, 95%) and calculate totals, correct predictions, win rates, and differences
    - Second table: Group by category (Personal, Health, Social, Misc, Politics) and calculate totals, correct predictions, average confidence, win rates, and differences
-4. Preserve the existing dataview section at the bottom of the file
 
 For calculations:
 - Win rate = (correct predictions / total predictions) * 100%
