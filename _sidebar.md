@@ -5,6 +5,7 @@
   * [1750761001-technical-server](1750761001-technical-server.md)
   * [1750763285-personal-stack](1750763285-personal-stack.md)
   * [AGI Path](AGI%20Path.md)
+  * [Claude prompts](Claude%20prompts.md)
   * [Confessions, Saint Augustine](Confessions%2C%20Saint%20Augustine.md)
   * [Mere Christianity, C.S Lewis](Mere%20Christianity%2C%20C.S%20Lewis.md)
   * [Python Crash Course, 3rd ed](Python%20Crash%20Course%2C%203rd%20ed.md)
@@ -16,12 +17,13 @@
 
 * **Folders**
   * [Claude-Research](/Claude-Research/)
-  * [Claude](/Claude/)
   * [Crypto](/Crypto/)
   * [excluded](/excluded/)
   * [exports-books](/exports-books/)
   * [exports-misc](/exports-misc/)
   * [exports-posts](/exports-posts/)
+  * [journal](/journal/)
   * [logs](/logs/)
   * [Miscellaneous](/Miscellaneous/)
   * [sandbox](/sandbox/)
+  * [templates](/templates/)

@@ -6,6 +6,7 @@ permalink: /readme/
 
 My main site is [f0ld.space](https://f0ld.space), there is also [notes.f0ld.space](https://notes.f0ld.space) which is just my online notes, I recommend using it for searching only.
 
+- You can contact me via email [me@f0ld.space](mailto:me@f0ld.space)
 - [my reading log](https://notes.f0ld.space/#/Reading-2025)
 
 ---

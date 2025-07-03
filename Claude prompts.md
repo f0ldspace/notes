@@ -1,10 +1,19 @@
 ---
 id: Claude prompts
 aliases:
-  - Obsidian
-  - Self Debate
+  - Claude Prompts
 tags: []
 ---
+
+# Claude Prompts
+
+This file contains some prompts I reuse on a regular basis or have spent time refining, some require use of a local file MCP.
+
+# Task adding
+
+```
+I store tasks in a local file (obsidian/todos.md) I want you to look through that task list, then check all my calendars, then my past 2 days journal entires (obsidian/journal/year/month/), and my past two weekly summaries (obsidian/self/) - then you can use that for context, it's better to lean into things. once you've done this I want you to add some tasks to my daily note (obsidian/journal/year/month/) when adding them to my daily note you should integrate it in my existing task framework and timeframes
+```
 
 # Self Debate
 
