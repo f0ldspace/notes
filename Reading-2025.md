@@ -16,7 +16,9 @@ Politics,Altruism,1
 Politics,Democracy,1
 
 Religion,Buddhism,2
+Religion,Christianity,1
 Buddhism,Theravada,2
+
 
 Finance,Stocks,1
 
@@ -28,7 +30,7 @@ Technology,Cryptocurrency,1
     xychart-beta
     title "Books by month"
     x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
-    line [4, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    line [4, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0]
 ```
 
 ## Log
@@ -42,4 +44,4 @@ Technology,Cryptocurrency,1
 | **04/02/25** | Living Theravada                          | Buddhism     | 5          | Non-Fiction | Digital    |
 | **20/03/25** | Bitcoin: an ecash p2p system              | Technology   | 8          | Non-Fiction | Digital    |
 | **28/03/25** | The scout mindset                         | Politics     | 9          | Non-Fiction | Digital    |
-
+| **04/07/25** | [[Mere Christianity, C.S Lewis]]          | Christianity | 8          | Non-Fiction | Digital    |
