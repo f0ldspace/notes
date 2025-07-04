@@ -9,5 +9,6 @@
   * [Going Infinite](/exports-books/Going%20Infinite.md)
   * [Living Theravada](/exports-books/Living%20Theravada.md)
   * [Meditations of the Pali Tradition](/exports-books/Meditations%20of%20the%20Pali%20Tradition.md)
+  * [Mere Christianity, C.S Lewis](/exports-books/Mere%20Christianity%2C%20C.S%20Lewis.md)
   * [Pure Land, Jones](/exports-books/Pure%20Land%2C%20Jones.md)
   * [The Life of Milarepa](/exports-books/The%20Life%20of%20Milarepa.md)
