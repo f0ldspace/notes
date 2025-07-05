@@ -9,4 +9,5 @@ tags: []
 
 ## Relevant Books
 
-- [[Crypto Crackup - Sam Bankman-Fried, FTX, and SBF's Weird Island Empire|]]
+- [[Crypto Crackup - Sam Bankman-Fried, FTX, and SBF's Weird Island Empire]]
+- [[Going Infinite]]

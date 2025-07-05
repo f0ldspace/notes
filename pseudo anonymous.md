@@ -1,3 +1,9 @@
+---
+id: pseudo anonymous
+aliases: []
+tags: []
+---
+
 Pseudo-anonymity is a state of partial anonymity where a person's identity is masked behind a pseudonym or identifier, rather than being completely anonymous. Here's an explanation of this concept:
 
 ## Core Concept
@@ -41,3 +47,4 @@ True anonymity involves:
 - Often requires additional security measures for enhanced protection
 
 Pseudo-anonymity represents a middle ground in the privacy spectrum, offering practical benefits for many digital interactions while acknowledging that complete anonymity is difficult to achieve.
+

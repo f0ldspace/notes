@@ -1,19 +1,26 @@
-
+---
+id: Vaping
+aliases:
+  - Misc infodump
+tags: []
+---
 
 > [!warning] README
 > Vaping is largely an unknown and risk:reward is highly personal and based on your values and your mind, don't start vaping because you see a single post online.
 
 > [!info]- Info
 > [[Health]], [[Productivity]]
-Last Update: **May-2025**
+> Last Update: **May-2025**
 
---- 
+---
+
 # Misc infodump
+
 - Vaping is absolutely safer than smoking
-- The lung risk of vaping is *likely* offset by regular cardio exercise
+- The lung risk of vaping is _likely_ offset by regular cardio exercise
 - Nicotine probably enhances productivity (task initiation and agency)
 - Nicotine does enhance, focus, memory, mood and lowers stress
-- Vaping is less addictive than cigarettes 
+- Vaping is less addictive than cigarettes
 
 # Usage
 
@@ -24,7 +31,9 @@ xychart-beta
       y-axis "Puff count"
       line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 ```
+
 ---
+
 # Vaping and health metrics
 
 | Legend     | Explanation/Context                                                                                |
@@ -40,7 +49,6 @@ xychart-beta
 | self-m     | self regulating for 1 month                                                                        |
 | prod       | productivity as benchmarked by time spent on one specific project, not my overall productive time. |
 
-
 ```mermaid
 xychart-beta
     title "Vaping and health metrics"
@@ -53,13 +61,17 @@ xychart-beta
 ```
 
 # Nicotine misc
+
 - onset 5-20 seconds, lasts 30-120 minutes
 - 14 day taper, 7 day off (every 6 months)
+
 ## Vape Juices
+
 - complex flavours (cinnamon, fruity etc) carry more risk
 - "popcorn lung" was caused by diacetyl not pg
 
 # DATA
+
 ```mermaid
 gantt
     title Data Timeline
@@ -74,6 +86,7 @@ gantt
     self2w             :30-04-25, 01-05-25
     selfm              :30-04-25, 01-05-25
 ```
+
 ## Baseline data
 
 | Date     | sleep score | Efficiency | REM (%) | Deep (%) | RHR    | HRV   | Prod    |

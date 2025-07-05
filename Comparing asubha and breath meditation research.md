@@ -1,4 +1,12 @@
-#claude/research 
+---
+id: Comparing asubha and breath meditation research
+aliases:
+  - In scientific research, asubha visualization is largely unexplored territory
+tags: []
+---
+
+#claude/research
+
 # In scientific research, asubha visualization is largely unexplored territory
 
 Despite its significant place in traditional Buddhist practice, asubha meditation—the contemplation of a body in various states of decay—remains virtually unstudied in modern scientific contexts. The research landscape shows a stark contrast: thousands of studies examine breath-focused meditation, while direct scientific investigation of asubha meditation is nearly non-existent. No neuroimaging studies, clinical trials, or experimental designs have specifically targeted this practice, creating a significant knowledge gap in meditation research.[^1][^2]
@@ -65,26 +73,47 @@ The scientific study of meditation practices reveals striking differences betwee
 
 The absence of direct scientific research on asubha meditation represents a significant gap in our understanding of contemplative practices. Expanding research to include this traditionally important technique could enrich our knowledge of how different meditation approaches affect brain function, psychology, and well-being, particularly in addressing attachment and existential concerns.
 
-
 [^1]: Biomedcentral - [Effectiveness of four deconstructive meditative practices on well-being and self-deconstruction: study protocol for an exploratory randomized controlled trial](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-023-07151-0)
+
 [^2]: MDPI - [Systematic Review for the Medical Applications of Meditation in Randomized Controlled Trials](https://www.mdpi.com/1660-4601/19/3/1244)
+
 [^3]: Wikipedia - [Patikulamanasikara](https://en.wikipedia.org/wiki/Patikulamanasikara)
+
 [^4]: Wikipedia - [Nine stages of decay](https://en.wikipedia.org/wiki/Nine_stages_of_decay)
+
 [^5]: The Washington Times - [Years of 'corpse meditation' now serving monks well](https://www.washingtontimes.com/news/2005/jan/3/20050103-123230-5077r/)
+
 [^6]: SevenPonds - [Corpse Meditation: A Buddhist Practice](https://blog.sevenponds.com/cultural-perspectives/corpse-meditation-a-buddhist-practice)
+
 [^7]: NewBuddhist - [Asubha Meditation](https://newbuddhist.com/discussion/26256/asubha-meditation)
+
 [^8]: Wikipedia - [Maranasati](https://en.wikipedia.org/wiki/Maranasati)
+
 [^9]: NCBI - [Meditation-Induced Near-Death Experiences: a 3-Year Longitudinal Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6244634/)
+
 [^10]: Frontiers - [Beyond the denial of death: death meditation increases a sense of connectedness and appreciation of life](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1477479/full
+
 [^11]: IMR Press - [Neural correlates of meditation: a review of structural and functional MRI studies](https://www.imrpress.com/journal/FBS/12/1/10.2741/S542/htm)
+
 [^12]: ResearchGate - [Brain Activity in Mindfulness Depends on Experience: a Meta-Analysis of fMRI Studies](https://www.researchgate.net/publication/322892752_Brain_Activity_in_Mindfulness_Depends_on_Experience_a_Meta-Analysis_of_fMRI_Studies)
+
 [^13]: Nature - [The neuroscience of mindfulness meditation](https://www.nature.com/articles/nrn3916)
+
 [^14]: NCBI - [Neural mechanisms of mindfulness and meditation: Evidence from neuroimaging studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4109098/)
+
 [^15]: NCCIH - [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)
+
 [^16]: Harvard Gazette - [Harvard researchers study how mindfulness may change the brain in depressed patients](https://news.harvard.edu/gazette/story/2018/04/harvard-researchers-study-how-mindfulness-may-change-the-brain-in-depressed-patients/)
+
 [^17]: ResearchGate - [Reconstructing and deconstructing the self: Cognitive mechanisms in meditation practice](https://www.researchgate.net/publication/280602465_Reconstructing_and_deconstructing_the_self_Cognitive_mechanisms_in_meditation_practice)
+
 [^18]: drarisworld - [Reflection on repulsiveness of thirty two parts of the body : (asubha bhavana)](https://drarisworld.wordpress.com/2020/06/26/reflection-on-repulsiveness-of-thirty-two-parts-of-the-body-asubha-bhavana/)
+
 [^19]: Serenecolombo - [Meditation on the Impurities of the Body](https://www.serenecolombo.org/meditation-on-the-impurities-of-the-body/)
+
 [^20]: Nature - [Mindful breath awareness meditation facilitates efficiency gains in brain networks: A steady-state visually evoked potentials study](https://www.nature.com/articles/s41598-018-32046-5)
+
 [^21]: NCBI - [Breath-based meditation: A mechanism to restore the physiological and cognitive reserves for optimal human performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832119/)
+
 [^22]: MDPI - [Meditative Experiences of Impurity and Purity—Further Reflection on the aśubhā Meditation and the śubha-vimokṣa](https://www.mdpi.com/2077-1444/12/2/86)
+

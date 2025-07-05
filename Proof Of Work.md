@@ -1,3 +1,9 @@
+---
+id: Proof Of Work
+aliases: []
+tags: []
+---
+
 Proof of Work is a consensus mechanism used by many blockchain networks to validate transactions and create new blocks. Here's a summary of how it works:
 
 ## Core Concept
@@ -5,12 +11,14 @@ Proof of Work is a consensus mechanism used by many blockchain networks to valid
 Proof of Work requires participants (miners) to solve complex computational puzzles that demand significant processing power and energy before they can add blocks to the blockchain.
 
 ## Key Elements
+
 - **Computational Puzzle**: Miners compete to find a solution (hash) that meets specific difficulty criteria
 - **Resource Intensive**: Deliberately requires substantial computing power and electricity
 - **Security Through Energy**: The high energy cost makes attacking the network economically impractical
 - **Decentralization**: Anyone with appropriate hardware can participate in mining
 
 ## Process
+
 1. Transactions are grouped into a block
 2. Miners compete to solve a mathematical puzzle by finding a hash value below a target threshold
 3. First miner to solve the puzzle broadcasts their solution to the network
@@ -19,6 +27,7 @@ Proof of Work requires participants (miners) to solve complex computational puzz
 6. The successful miner receives a reward (newly minted coins plus transaction fees)
 
 ## Advantages
+
 - Proven security track record
 - Resistance to Sybil attacks
 - Decentralized validation
@@ -38,3 +47,4 @@ Proof of Work requires participants (miners) to solve complex computational puzz
 - Monero
 
 Proof of Work was the original blockchain consensus mechanism, though many newer platforms have moved to alternative systems like Proof of Stake to address energy consumption concerns.
+

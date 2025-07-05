@@ -1,3 +1,10 @@
+---
+id: The Oppenheimer Method - Cognitive Techniques
+aliases:
+  - "The Oppenheimer Method: How physics' greatest polymath achieved legendary focus"
+tags: []
+---
+
 # The Oppenheimer Method: How physics' greatest polymath achieved legendary focus
 
 J. Robert Oppenheimer's legendary cognitive abilities stemmed from five core practices now validated by modern neuroscience: interdisciplinary learning, Sanskrit-based meditation, extreme physical presence during work, teaching-based comprehension, and systematic information synthesis across fields. His methods—far from being innate genius—represent learnable techniques that contemporary cognitive science shows can enhance focus by 40-60% and accelerate learning speed by 3-5x when systematically applied.
@@ -135,3 +142,4 @@ What separated Oppenheimer wasn't raw intelligence but his systematic approach t
 31. UC Berkeley Life. "Study Hacks: UC Berkeley Style." https://life.berkeley.edu/study-hacks-berkeley-style/
 
 32. Atomic Archive. "J. Robert Oppenheimer | Biographies." https://www.atomicarchive.com/resources/biographies/oppenheimer.html
+
