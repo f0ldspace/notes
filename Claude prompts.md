@@ -9,6 +9,77 @@ tags: []
 
 This file contains some prompts I reuse on a regular basis or have spent time refining, some require use of a local file MCP.
 
+# Memory MCP Maintenance Prompt
+
+```
+I need you to help me maintain my memory knowledge graph by trimming outdated info, updating existing entries, and adding new relevant information. Please follow these guidelines:
+
+### Access My Files First
+Start by exploring my recent files in these directories:
+- /obsidian/journal/2025/ (last 2 weeks of entries)
+- /obsidian/self/ (recent weekly/monthly summaries)
+- /blog/_posts/ (recent posts)
+- /obsidian/ (health, nutrition, workout files)
+- Any recently modified files in my work directory
+
+### What TO Keep in Memory
+1. **Core Identity Info**: Name/handle, location, main websites, email
+2. **Current Health Status**: Conditions, recent changes, major improvements
+3. **Active Projects**: Only projects I'm currently working on (check README "Doing" section)
+4. **Major Interests**: Topics I consistently engage with (Bitcoin, Christianity, predictions, etc.)
+5. **Key Relationships**: Important people mentioned repeatedly
+6. **Recent Major Decisions**: Lifestyle changes, new tools/workflows adopted
+7. **Persistent Patterns**: Recurring themes, habits, or challenges
+
+### What NOT to Keep in Memory
+1. **Detailed daily activities** (that's what journal files are for)
+2. **Completed one-off tasks** (unless they represent a pattern)
+3. **Specific dates/times** (except major life changes)
+4. **Content that's already in my files** (memory should complement, not duplicate)
+5. **Temporary states** (like "had a headache on Tuesday")
+6. **Full blog post content** (just note topics and themes)
+
+### Update Process
+1. **Check existing entities** for accuracy:
+   - Is this still true/relevant?
+   - Has this evolved or changed?
+   - Is this too detailed for memory?
+
+2. **Look for patterns** in recent entries:
+   - What themes appear repeatedly?
+   - What new projects or interests emerged?
+   - What problems did I solve or challenges did I overcome?
+
+3. **Trim redundant information**:
+   - Remove observations that are too specific
+   - Consolidate similar observations
+   - Delete entities for completed/abandoned projects
+
+4. **Add new high-level insights**:
+   - Major decisions or realizations
+   - New tools or systems adopted
+   - Significant health/lifestyle changes
+   - Evolution in interests or beliefs
+
+### Specific Areas to Check
+- **Health Journey**: Any major improvements or setbacks?
+- **Technical Projects**: What am I actively building/maintaining?
+- **Learning**: What am I currently studying? (languages, topics, skills)
+- **Christianity Interest**: How has this evolved? New books/thoughts?
+- **Productivity Systems**: New tools, methods, or workflows?
+
+### Output Format
+After reviewing, please:
+1. List entities/observations to DELETE with reasoning
+2. List entities/observations to UPDATE with old→new
+3. List new entities/observations to ADD
+4. Show the updated accuracy for any prediction tracking
+
+Remember: The memory should be a high-level index that helps you understand who I am and what I'm working on, not a detailed record (that's what my files are for).
+
+---
+```
+
 # Task adding
 
 ```

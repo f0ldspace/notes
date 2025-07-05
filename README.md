@@ -6,7 +6,7 @@ permalink: /readme/
 
 My main site is [f0ld.space](https://f0ld.space), there is also [notes.f0ld.space](https://notes.f0ld.space) which is just my online notes, I recommend using it for searching only.
 
-- You can contact me via email [me@f0ld.space](mailto:me@f0ld.space)
+- You can contact me via email [me@f0ld.space](mailto:me@f0ld.space) or follow me on bluesky [f0ldspace.bsky.social](https://bsky.app/profile/f0ldspace.bsky.social)
 - [my reading log](https://notes.f0ld.space/#/Reading-2025)
 
 ---
@@ -20,8 +20,11 @@ My main site is [f0ld.space](https://f0ld.space), there is also [notes.f0ld.spac
 - [ ] [Superforecasting](https://notes.f0ld.space/#/Superforecasting)
 - [ ] [The orthodox chruch](https://notes.f0ld.space/#/The%20Orthodox%20Church%2C%20Timothy%20Ware)
 - [ ] [Thirty steps to heaven](https://notes.f0ld.space/#/Thirty%20steps%20to%20heaven)
+- [ ] [[1751624511-biblical-interpretation-in-the-early-church-michael-graves]]
 
 # Doing
 
 - [ ] [Technical Server](https://notes.f0ld.space/#/1750761001-technical-server)
 - [ ] [Personal Stack](https://notes.f0ld.space/#/1750763285-personal-stack)
+
+---
