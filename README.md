@@ -12,7 +12,7 @@ permalink: /readme/
 # Social
 
 - You can contact me via email [me@f0ld.space](mailto:me@f0ld.space)
-- Follow me on bluesky [f0ldspace.bsky.social](https://bsky.app/profile/f0ldspace.bsky.social)
+- Follow me on bluesky [@f0ld.space](https://bsky.app/profile/f0ld.space)
 - [my reading log](https://notes.f0ld.space/#/Reading-2025)
 
 ---
