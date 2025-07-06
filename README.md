@@ -17,22 +17,39 @@ permalink: /readme/
 
 ---
 
-# Reading
+# What I hope to do in 2025.
 
-- [ ] [saint paisios](https://notes.f0ld.space/#/1750429757-saint-paisios-of-mount-athos)
-- [ ] [confessions](https://notes.f0ld.space/#/Confessions%2C%20Saint%20Augustine)
-- [x] [mere christianity](https://notes.f0ld.space/#/Mere%20Christianity%2C%20C.S%20Lewis)
-- [ ] [Python crash course](https://notes.f0ld.space/#/Python%20Crash%20Course%2C%203rd%20ed)
-- [ ] [Superforecasting](https://notes.f0ld.space/#/Superforecasting)
-- [ ] [The orthodox chruch](https://notes.f0ld.space/#/The%20Orthodox%20Church%2C%20Timothy%20Ware)
-- [ ] [Thirty steps to heaven](https://notes.f0ld.space/#/Thirty%20steps%20to%20heaven)
-- [ ] [Biblical interpretation in the early church](https://notes.f0ld.space/#/1751624511-biblical-interpretation-in-the-early-church-michael-graves)
+> Last updated: 05-07-2025
 
-# Doing
+This is a broad overview to accompany the following blog post [here](https://f0ld.space/2025/07/06/What-I-hope-to-do-in-2025.html) about what I want to get done (excluding personal/private things), in 2025, this will be used to track the progress then at the end of 2025 I'll update that blogpost.
 
-- [ ] [Technical Server](https://notes.f0ld.space/#/1750761001-technical-server)
-- [ ] [Personal Stack](https://notes.f0ld.space/#/1750763285-personal-stack)
+# Technology
 
-The doing list is not exhaustive.
+## Programming
+
+- [ ] Python crash course
+- [ ] Learning Python
+- [ ] How computers really work
+- [ ] Computer Architecture
+
+## Artificial Intelligence
+
+- [ ] Anthropic Learn course
+- [ ] The alignment problem
+- [ ] Prompt engineering for generative AI
+- [ ] Introduction to machine learning with python
+- [ ] Machine learning with python cookbook
+
+# Personal
+
+## Poker
+
+- [ ] Learn better poker theory
+- [ ] Achieve a win rate of 51% or greater
+
+# Vague
+
+- [ ] I want to gain a more complete understanding of Effective Altruism
+- [ ] The precipice
 
 ---
