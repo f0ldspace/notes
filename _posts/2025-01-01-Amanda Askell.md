@@ -1,7 +1,11 @@
 ---
-id: Amanda Askell
+id: 2025-01-01-Amanda Askell
 aliases: []
-tags: []
+tags:
+  - people
+  - people/ai
+date: 2025-01-01 18:00:00 -0000
+layout: post
 ---
 
 ## Overview
@@ -103,4 +107,3 @@ At Anthropic, Askell's work has been instrumental in developing Claude, particul
 - Developing AI that can discuss contentious topics without falling into false equivalence
 - Implementing safeguards against harmful or deceptive behaviors
   Her interdisciplinary background in philosophy and AI research has positioned her uniquely to address the complex ethical challenges that arise in the development of increasingly capable AI systems.
-

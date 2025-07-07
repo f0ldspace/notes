@@ -1,7 +1,0 @@
----
-id: Finance
-aliases: []
-tags: []
----
-
-

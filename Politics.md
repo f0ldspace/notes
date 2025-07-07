@@ -1,7 +1,0 @@
----
-id: Politics
-aliases: []
-tags: []
----
-
-

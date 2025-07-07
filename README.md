@@ -25,22 +25,28 @@ This is a broad overview to accompany the following blog post [here](https://f0l
 
 # Technology
 
-## Programming
+## Programming[^1]
+
+[^1]: I currently know enough to call myself and be called a programmer but with the advent of vibe coding I want to improve my standards and no longer skip the basics.
 
 - [ ] Python crash course
 - [ ] Learning Python
 - [ ] How computers really work
 - [ ] Computer Architecture
 
-## Artificial Intelligence
+## Artificial Intelligence[^2]
+
+[^2]: This list will likely expand and improve as I gain base knowledge.
 
 - [ ] Anthropic Learn course
-- [ ] The alignment problem
+- [ ] The alignment problem (book)
 - [ ] Prompt engineering for generative AI
 - [ ] Introduction to machine learning with python
 - [ ] Machine learning with python cookbook
 
 # Personal
+
+- [ ] Dominion, Holland
 
 ## Poker
 
@@ -49,7 +55,12 @@ This is a broad overview to accompany the following blog post [here](https://f0l
 
 # Vague
 
-- [ ] I want to gain a more complete understanding of Effective Altruism
+- [ ] I want to gain a more complete understanding of Effective Altruism[^3]
+  - [ ] The precipice
+  - [ ] Careless people
+
+[^3]: This mostly means understanding the culture and practical application of EA. I want to be able to strongly argue for it.
+
 - [ ] The precipice
 
 ---
