@@ -21,7 +21,7 @@ header_pages:
   - index.html
   - README.md
   - tags/index.html
-
+  - search.html
 # Exclude from processing
 exclude:
   - Gemfile

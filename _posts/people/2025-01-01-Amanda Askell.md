@@ -2,9 +2,13 @@
 id: 2025-01-01-Amanda Askell
 aliases: []
 tags:
-  - people
   - people/ai
-date: 2025-01-01 18:00:00 -0000
+  - ai
+  - anthropic
+  - claude
+  - philosophy
+  - ai-safety
+date: 2025-01-01 17:00:00 -0000
 layout: post
 ---
 

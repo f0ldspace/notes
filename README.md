@@ -4,6 +4,21 @@ title: /README.md
 permalink: /readme/
 ---
 
+<!-- mtoc-start -->
+
+* [Websites](#websites)
+* [Social](#social)
+* [What I hope to do in 2025.](#what-i-hope-to-do-in-2025)
+* [Technology](#technology)
+  * [Programming [^1]](#programming-1)
+  * [Artificial Intelligence [^2]](#artificial-intelligence-2)
+* [Personal](#personal)
+  * [Poker](#poker)
+* [Vague](#vague)
+* [Donate](#donate)
+
+<!-- mtoc-end -->
+
 # Websites
 
 - Blog/main site is [f0ld.space](https://f0ld.space)
@@ -25,7 +40,7 @@ This is a broad overview to accompany the following blog post [here](https://f0l
 
 # Technology
 
-## Programming[^1]
+## Programming [^1]
 
 [^1]: I currently know enough to call myself and be called a programmer but with the advent of vibe coding I want to improve my standards and no longer skip the basics.
 
@@ -34,7 +49,7 @@ This is a broad overview to accompany the following blog post [here](https://f0l
 - [ ] How computers really work
 - [ ] Computer Architecture
 
-## Artificial Intelligence[^2]
+## Artificial Intelligence [^2]
 
 [^2]: This list will likely expand and improve as I gain base knowledge.
 
@@ -46,8 +61,6 @@ This is a broad overview to accompany the following blog post [here](https://f0l
 
 # Personal
 
-- [ ] Dominion, Holland
-
 ## Poker
 
 - [ ] Learn better poker theory
@@ -56,11 +69,25 @@ This is a broad overview to accompany the following blog post [here](https://f0l
 # Vague
 
 - [ ] I want to gain a more complete understanding of Effective Altruism[^3]
+
   - [ ] The precipice
   - [ ] Careless people
+  - [ ] Moral uncertainty
+  - [ ] What we owe the future
 
 [^3]: This mostly means understanding the culture and practical application of EA. I want to be able to strongly argue for it.
 
-- [ ] The precipice
+---
+
+# Donate
+
+If you wish to donate to me you can do so using the following
+
+- Bitcoin Lightning
+  - foldspace@coinos.io
+- Bitcoin
+  - bc1qwkl7s2esd77cr6a4zemuds7w20xhpwnhg7ftvz
+- Ethereum
+  - 0xa5a88BF34c56813Bff615c0201c0BAD08f78D878
 
 ---
